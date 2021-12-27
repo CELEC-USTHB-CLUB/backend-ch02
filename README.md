@@ -4,7 +4,7 @@ https://docs.google.com/document/d/13zP1fAoNYURsNW19Mw0PXTIyuPxYc3UZfaLp2D8lFNk/
 # Environment
 - UBUNTU 20.04
 - PHP 8.0
-- MariaDB 10.6
+- SQLite version 3.31.1
 # Configuration
 Change Database: [here](https://github.com/CELEC-USTHB-CLUB/backend-ch02/blob/main/Database/connection.php#L3)
 # Download used sqlite database
